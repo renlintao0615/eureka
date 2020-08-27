@@ -65,7 +65,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>2.3.0.RELEASE</version>
 				<configuration>
-					<mainClass>com.eureka.EurekaApplication</mainClass>
+					<mainClass>com.yyskt.EurekaApplication</mainClass>
 				</configuration>
 				<executions>
 					<execution>
